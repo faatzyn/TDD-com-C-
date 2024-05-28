@@ -1,0 +1,14 @@
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\bin\Debug\net8.0\NewTalents.exe
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\bin\Debug\net8.0\NewTalents.dll
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\obj\Debug\net8.0\NewTalents.dll
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\xampp\htdocs\Luiz\desafio_final_dio_avanade\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
